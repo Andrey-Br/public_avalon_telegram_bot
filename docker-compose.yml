@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+
+ avalon:
+   build: ./
+   container_name: avalon
